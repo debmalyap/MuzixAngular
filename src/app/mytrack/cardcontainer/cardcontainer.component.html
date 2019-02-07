@@ -1,0 +1,9 @@
+<div class="container">
+    <app-card
+      *ngFor="let track of tracks"
+      [track]="track"
+      (addToWishList)="addToWishList($event)"
+      [statusCode]="statusCode"
+      [url]='track["image"][2]["#text"]'
+    ></app-card>
+  </div>

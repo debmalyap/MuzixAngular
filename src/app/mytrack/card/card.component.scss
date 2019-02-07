@@ -1,0 +1,89 @@
+.card-container{
+    display: flex;
+   flex-direction: column; 
+   margin: 1em;
+  height: 500px;
+  width: 300px;
+  box-shadow: 3px 3px 25px  black;
+  text-align: center;
+  background-color: lightsalmon;
+  top: 100px;
+
+
+}
+.update{
+   margin-left: 10px;
+}
+
+.header{
+   font-family: 'Josefin Sans', sans-serif;
+   margin:auto;
+   color:black;
+}
+
+.mat-card-subtitle{
+   color: black;
+}
+.image{
+   height: 100px;
+   width: 200px;
+   margin-left: 50px;
+   
+}
+.mat-fab.mat-accent, .mat-flat-button.mat-accent, .mat-mini-fab.mat-accent, .mat-raised-button.mat-accent{
+   background-color: #9c1148;
+   margin-left:10px;
+}
+
+.material-icons{
+   color: blue;
+}
+
+
+
+
+
+// .card-container{
+//    display: flex;
+//   flex-direction: column; 
+//   margin: 1em;
+//  height: 300px;
+//  width: 300px;
+//  box-shadow: 3px 3px 25px  black;
+//  text-align: center;
+//  background-color: #424242;
+//  margin-top: 40px;
+
+// }
+// .update{
+//   margin-left: 10px;
+// }
+
+// .header{
+//   font-family: 'Josefin Sans', sans-serif;
+//   margin:auto;
+//   color: blue;
+// }
+
+// .mat-card-subtitle{
+//   color: blue;
+// }
+// .image{
+//   height: 200px;
+//   width: 200px;
+//   margin-left: 50px;
+  
+// }
+// .mat-fab.mat-accent, .mat-flat-button.mat-accent, .mat-mini-fab.mat-accent, .mat-raised-button.mat-accent{
+//   background-color: #9c1148;
+//   margin-left:10px;
+// }
+
+// .material-icons{
+//   color: blue;
+// }
+
+
+
+
+
